@@ -1,0 +1,32 @@
+{
+  "name": "gulpmodel",
+  "version": "1.0.0",
+  "description": "gulp project model",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "yuh",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-less": "^3.3.2",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp.spritesmith": "^6.5.0",
+    "imagemin-pngquant": "^5.0.1"
+  },
+  "dependencies": {
+    "gulp-sourcemap": "^1.0.1"
+  }
+}
